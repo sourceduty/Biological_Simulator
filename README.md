@@ -14,6 +14,10 @@ Additionally, the Biological Simulator generates visual data, including charts a
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Topology Optimize](https://github.com/sourceduty/Topology_Optimize)
+<br>
+[Biologically Engineered](https://github.com/sourceduty/Biologically_Engineered)
+<br>
+[Biochemical Programming](https://github.com/sourceduty/Biochemical_Programming)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
